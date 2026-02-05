@@ -1,0 +1,15 @@
+# Dependencias para el Dashboard de Análisis de Satisfacción de Ryanair
+
+# Framework principal
+streamlit>=1.28.0
+
+# Análisis de datos
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualización
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Utilidades
+python-dateutil>=2.8.0
